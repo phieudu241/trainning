@@ -1,3 +1,2 @@
 test2
-Edit for conflict on server2
 Edit on Client
