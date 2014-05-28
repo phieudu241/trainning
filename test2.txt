@@ -1,1 +1,1 @@
-commit test2 of branch1 on server
+commit test2 on server
